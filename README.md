@@ -1,6 +1,8 @@
 # WPF-Keypass
 Password Manager
 
+This project require MvvmFramework library.
+
 App for stroring passwords.
 
 <h3>Features and Technologies</h3>
